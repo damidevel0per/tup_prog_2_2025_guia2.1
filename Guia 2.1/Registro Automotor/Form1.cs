@@ -37,7 +37,6 @@ namespace Registro_Automotor
                 listBox1.Items.Add(depto.RegistrarVehiculo(persona).Patente);
                 listBox1.Items.Add(depto.RegistrarVehiculo(persona).Serie);
                 listBox1.Items.Add(persona.Nombre + " " + persona.DNI);
-
             }
         }
 

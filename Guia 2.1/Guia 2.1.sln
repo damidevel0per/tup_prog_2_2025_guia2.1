@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro Automotor", "Registro Automotor\Registro Automotor.csproj", "{048A4B48-1138-4291-996E-14FE5119637B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liquidacion de sueldos", "Liquidacion de sueldos\Liquidacion de sueldos.csproj", "{BDA57E3F-22E4-42E5-9935-A455ED25EDA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{048A4B48-1138-4291-996E-14FE5119637B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{048A4B48-1138-4291-996E-14FE5119637B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{048A4B48-1138-4291-996E-14FE5119637B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA57E3F-22E4-42E5-9935-A455ED25EDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA57E3F-22E4-42E5-9935-A455ED25EDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA57E3F-22E4-42E5-9935-A455ED25EDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA57E3F-22E4-42E5-9935-A455ED25EDA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
